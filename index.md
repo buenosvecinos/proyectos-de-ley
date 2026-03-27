@@ -15,8 +15,7 @@ Este sitio se actualiza automáticamente cada vez que trabajamos un proyecto.
 
 | # | Tema | Estado | Enlace |
 |---|------|--------|--------|
-| 1 | Defensa del Carnaval Porteño y las murgas | 💡 Idea | [Ver detalle](proyectos/defensa-carnaval-murgas) |
-| 2 | Prohibición de consumo de alcohol en vía pública | 📝 Borrador | [Ver detalle](proyectos/prohibicion-alcohol-via-publica) |
+| 1 | Prohibición de consumo de alcohol en vía pública | 📝 Borrador | [Ver detalle](proyectos/prohibicion-alcohol-via-publica) |
 
 ---
 
