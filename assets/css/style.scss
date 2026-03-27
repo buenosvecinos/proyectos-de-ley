@@ -1,0 +1,72 @@
+---
+---
+
+/* Buenos Vecinos - Negro y Azul */
+$header-bg-color: #1a1a1a;
+$header-bg-color-secondary: #333333;
+$header-heading-color: #6CC4D4;
+$header-link-color: #ffffff;
+$body-link-color: #6CC4D4;
+$section-headings-color: #1a1a1a;
+$blockquote-text-color: #6CC4D4;
+
+@import "jekyll-theme-cayman";
+
+/* Custom overrides */
+.page-header {
+  background: linear-gradient(135deg, #1a1a1a, #2a2a2a) !important;
+  border-bottom: 4px solid #6CC4D4;
+}
+
+.page-header h1 {
+  color: #6CC4D4 !important;
+}
+
+.page-header h2 {
+  color: #ffffff !important;
+  opacity: 0.9;
+}
+
+.btn {
+  color: #6CC4D4 !important;
+  border-color: #6CC4D4 !important;
+}
+
+.btn:hover {
+  background-color: #6CC4D4 !important;
+  color: #1a1a1a !important;
+}
+
+a {
+  color: #6CC4D4;
+}
+
+a:hover {
+  color: #4aa8b8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1a1a1a;
+}
+
+table th {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+table td {
+  border-color: #e0e0e0;
+}
+
+table tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+blockquote {
+  border-left-color: #6CC4D4;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 2px solid #6CC4D4;
+}
