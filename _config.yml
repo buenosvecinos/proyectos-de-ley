@@ -1,0 +1,11 @@
+title: Buenos Vecinos — Proyectos de Ley
+description: Propuestas legislativas de Buenos Vecinos, ONG de la Ciudad de Buenos Aires
+baseurl: "/proyectos-de-ley"
+url: "https://buenosvecinos.github.io"
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+exclude:
+  - README.md
+  - LICENSE
+  - scripts/
