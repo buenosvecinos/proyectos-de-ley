@@ -16,6 +16,7 @@ Este sitio se actualiza automáticamente cada vez que trabajamos un proyecto.
 | # | Tema | Estado | Enlace |
 |---|------|--------|--------|
 | 1 | Prohibición de consumo de alcohol en vía pública y venta de bebidas alcohólicas refrigeradas | 📝 Borrador | [Ver detalle](proyectos/prohibicion-alcohol-via-publica) |
+| 2 | Reforma integral de comunas: remuneraciones, competencias y control | 📝 Borrador | [Ver detalle](proyectos/remuneracion-juntas-comunales) |
 
 ---
 
