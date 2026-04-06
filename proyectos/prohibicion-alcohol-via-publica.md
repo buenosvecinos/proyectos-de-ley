@@ -16,7 +16,7 @@ title: "Prohibición de Consumo de Alcohol en Vía Pública y Regulación del Ex
 
 **Señora Presidenta de la Legislatura de la Ciudad Autónoma de Buenos Aires:**
 
-Tengo el agrado de dirigirme a Ud. a fin de someter a consideración de ese Cuerpo el adjunto Proyecto de Ley por el cual se establece el **Régimen de Prevención y Sanción del Consumo de Bebidas Alcohólicas en Espacios Públicos y de Regulación del Expendio de Bebidas Alcohólicas Refrigeradas en Comercios Minoristas de Proximidad de la Ciudad Autónoma de Buenos Aires**, mediante modificaciones al Código Contravencional (Ley N° 1472) y al Régimen de Faltas (Ley N° 451).
+Tengo el agrado de dirigirme a Ud. a fin de someter a consideración de ese Cuerpo el adjunto Proyecto de Ley por el cual se establece el **Régimen de Prevención y Sanción del Consumo de Bebidas Alcohólicas en Espacios Públicos y de Prohibición del Expendio de Bebidas Alcohólicas Refrigeradas en Comercios Minoristas de la Ciudad Autónoma de Buenos Aires**, mediante modificaciones al Código Contravencional (Ley N° 1472) y al Régimen de Faltas (Ley N° 451).
 
 Saludo a Ud. atentamente.
 
@@ -32,7 +32,7 @@ Saludo a Ud. atentamente.
 
 a) Incorporar al Código Contravencional de la Ciudad Autónoma de Buenos Aires (Ley N° 1472 y modificatorias) la tipificación del consumo de bebidas alcohólicas y el porte de recipientes abiertos en la vía pública y espacios públicos como contravención autónoma.
 
-b) Incorporar al Régimen de Faltas de la Ciudad (Ley N° 451 y modificatorias) la tipificación del expendio de bebidas alcohólicas refrigeradas en comercios minoristas de proximidad durante la franja horaria de restricción y de la facilitación del consumo callejero como faltas autónomas.
+b) Incorporar al Régimen de Faltas de la Ciudad (Ley N° 451 y modificatorias) la prohibición del expendio de bebidas alcohólicas refrigeradas en comercios minoristas y la tipificación de la facilitación del consumo callejero como faltas autónomas.
 
 c) Establecer un régimen complementario de prevención, concientización, Zonas de Consumo Habilitado y control legislativo.
 
@@ -48,9 +48,7 @@ c) **Espacio público:** comprende, además de la vía pública, los parques, pl
 
 d) **Recipiente abierto:** todo envase, botella, lata, vaso u otro contenedor de bebida alcohólica cuyo contenido se encuentre accesible para su consumo inmediato, por encontrarse destapado, con el sello roto y sin cierre efectivo, o parcialmente consumido sin haber sido nuevamente cerrado.
 
-e) **Comercio minorista de proximidad:** supermercados, autoservicios, minimercados, almacenes, kioscos, drugstores, estaciones de servicio y todo otro comercio habilitado para la venta de bebidas alcohólicas al público que no constituya un establecimiento gastronómico con servicio de mesa.
-
-f) **Franja horaria de restricción refrigerada:** el período comprendido entre las veinte horas (20:00 h) y las diez horas (10:00 h) del día siguiente.
+e) **Comercio minorista:** todo comercio habilitado para la venta de bebidas alcohólicas al público —incluyendo supermercados, hipermercados, autoservicios, minimercados, almacenes, kioscos, drugstores y estaciones de servicio— que no constituya un establecimiento gastronómico con habilitación para servicio de mesa.
 
 ---
 
@@ -88,15 +86,15 @@ f) **Franja horaria de restricción refrigerada:** el período comprendido entre
 
 **Artículo 4°.-** Incorpórase a continuación del artículo 4.1.3 de la Ley N° 451 (Régimen de Faltas) y modificatorias, el siguiente artículo:
 
-*"4.1.3 bis.- Expendio de bebidas alcohólicas refrigeradas en franja horaria restringida - El/la titular o responsable de un comercio minorista de proximidad —conforme la definición establecida en la ley de régimen de prevención y sanción del consumo de bebidas alcohólicas en espacios públicos— que durante la franja horaria comprendida entre las veinte horas (20:00 h) y las diez horas (10:00 h) del día siguiente expenda, ofrezca o mantenga bebidas alcohólicas en heladeras, freezers, exhibidoras refrigeradas o cualquier otro equipo de enfriamiento accesible al público en el área de venta, o las exhiba junto a hielo o elementos refrigerantes destinados a su enfriamiento inmediato para la venta, es sancionado/a con multa de treinta (30) a sesenta (60) unidades fijas.*
+*"4.1.3 bis.- Expendio de bebidas alcohólicas refrigeradas en comercios minoristas - El/la titular o responsable de un comercio minorista —conforme la definición establecida en la ley de régimen de prevención y sanción del consumo de bebidas alcohólicas en espacios públicos— que expenda, ofrezca o mantenga bebidas alcohólicas en heladeras, freezers, exhibidoras refrigeradas o cualquier otro equipo de enfriamiento accesible al público en el área de venta, o las exhiba junto a hielo o elementos refrigerantes destinados a su enfriamiento inmediato para la venta, es sancionado/a con multa de treinta (30) a sesenta (60) unidades fijas.*
 
 *En caso de segunda infracción dentro de los doce (12) meses, la sanción será de multa de sesenta (60) a ciento cincuenta (150) unidades fijas y clausura temporaria por cinco (5) a quince (15) días.*
 
 *En caso de tercera infracción y subsiguientes dentro de los doce (12) meses, la sanción será de multa de ciento cincuenta (150) a trescientas (300) unidades fijas y clausura por treinta (30) a sesenta (60) días. Podrá disponerse la cancelación de la habilitación para el expendio de bebidas alcohólicas.*
 
-*La presente falta se extiende a los servicios de entrega a domicilio y plataformas de comercio electrónico cuando el expendedor sea un comercio alcanzado por esta norma, respecto de pedidos realizados durante la franja horaria de restricción.*
+*La presente falta se extiende a los servicios de entrega a domicilio y plataformas de comercio electrónico cuando el expendedor sea un comercio alcanzado por esta norma.*
 
-*No constituye falta la conducta descripta en el presente artículo cuando sea realizada por establecimientos gastronómicos con habilitación para servicio de mesa, ni por hoteles, alojamientos turísticos y clubes privados respecto de sus huéspedes, socios y visitantes. Tampoco constituye falta cuando sea realizada por vinotecas y comercios cuya habilitación comercial sea exclusiva o principalmente la venta especializada de bebidas alcohólicas, siempre que se cumplan las siguientes condiciones en forma conjunta: (i) el expendio refrigerado se realice exclusivamente en envases cerrados de contenido igual o superior a setecientos cincuenta mililitros (750 ml); y (ii) el comercio no expenda bebidas alcohólicas refrigeradas en envases individuales de consumo inmediato —tales como latas, porrones o envases de contenido inferior a setecientos cincuenta mililitros (750 ml)—. La reglamentación podrá establecer condiciones adicionales para la procedencia de esta excepción."*
+*No constituye falta la conducta descripta en el presente artículo cuando sea realizada por establecimientos gastronómicos con habilitación para servicio de mesa, ni por hoteles, alojamientos turísticos y clubes privados respecto de sus huéspedes, socios y visitantes."*
 
 **Artículo 5°.-** Incorpórase a continuación del artículo incorporado por el artículo anterior, el siguiente artículo:
 
@@ -108,7 +106,7 @@ f) **Franja horaria de restricción refrigerada:** el período comprendido entre
 
 *No constituye falta la entrega de bebidas por establecimientos gastronómicos con habilitación para servicio de mesa, en el marco de su actividad habitual habilitada y dentro del perímetro autorizado de ocupación de espacio público."*
 
-**Artículo 6°.-** Las faltas previstas en los artículos 4.1.3 bis y 4.1.3 ter incorporados por la presente ley tipifican conductas distintas de la prevista en el artículo 4.1.3 vigente de la Ley N° 451. El artículo 4.1.3 sanciona el expendio a personas en estado de embriaguez o la tolerancia del consumo dentro del local; los artículos 4.1.3 bis y 4.1.3 ter sancionan, respectivamente, el expendio refrigerado en franja horaria restringida y la facilitación del consumo callejero mediante modalidades objetivas de entrega. Cuando un mismo hecho pudiera encuadrar simultáneamente en más de una de estas figuras, el/la Controlador/a Administrativo/a de Faltas aplicará la sanción correspondiente a la falta más gravemente penada, conforme las reglas de concurso previstas en la Ley N° 451 y el procedimiento de la Ley N° 1217.
+**Artículo 6°.-** Las faltas previstas en los artículos 4.1.3 bis y 4.1.3 ter incorporados por la presente ley tipifican conductas distintas de la prevista en el artículo 4.1.3 vigente de la Ley N° 451. El artículo 4.1.3 sanciona el expendio a personas en estado de embriaguez o la tolerancia del consumo dentro del local; los artículos 4.1.3 bis y 4.1.3 ter sancionan, respectivamente, el expendio refrigerado en comercios minoristas y la facilitación del consumo callejero mediante modalidades objetivas de entrega. Cuando un mismo hecho pudiera encuadrar simultáneamente en más de una de estas figuras, el/la Controlador/a Administrativo/a de Faltas aplicará la sanción correspondiente a la falta más gravemente penada, conforme las reglas de concurso previstas en la Ley N° 451 y el procedimiento de la Ley N° 1217.
 
 ---
 
@@ -134,7 +132,7 @@ a) Campañas de difusión en medios de comunicación, redes sociales y espacios 
 
 b) Incorporación de contenidos sobre consumo responsable en los programas educativos de nivel secundario de las escuelas de la Ciudad.
 
-c) Capacitación a comerciantes expendedores de bebidas alcohólicas sobre sus obligaciones legales, incluyendo las restricciones horarias al expendio refrigerado.
+c) Capacitación a comerciantes expendedores de bebidas alcohólicas sobre sus obligaciones legales, incluyendo la prohibición de expendio refrigerado en comercios minoristas.
 
 d) Provisión de información y derivación a servicios de atención para personas con consumo problemático de alcohol.
 
@@ -150,7 +148,7 @@ d) Provisión de información y derivación a servicios de atención para person
 
 a) La Policía de la Ciudad, como agente de prevención contravencional conforme la Ley N° 12 de Procedimiento Contravencional, para las contravenciones incorporadas al Código Contravencional por la presente ley.
 
-b) La Dirección General de Fiscalización y Control y los organismos de inspección que correspondan, para las faltas incorporadas al Régimen de Faltas por la presente ley, conforme el procedimiento de la Ley N° 1217 (Procedimiento de Faltas). Los inspectores estarán facultados para verificar el cumplimiento de las restricciones al expendio refrigerado, pudiendo inspeccionar heladeras, freezers, exhibidoras refrigeradas y áreas de almacenamiento en el área de venta durante la franja horaria de restricción.
+b) La Dirección General de Fiscalización y Control y los organismos de inspección que correspondan, para las faltas incorporadas al Régimen de Faltas por la presente ley, conforme el procedimiento de la Ley N° 1217 (Procedimiento de Faltas). Los inspectores estarán facultados para verificar el cumplimiento de la prohibición de expendio refrigerado, pudiendo inspeccionar heladeras, freezers, exhibidoras refrigeradas y áreas de almacenamiento en el área de venta.
 
 c) Las Juntas Comunales, como órganos de consulta y participación vecinal.
 
@@ -166,7 +164,7 @@ d) Propuestas de ajuste normativo si correspondiere.
 
 e) Estado de implementación de las Zonas de Consumo Habilitado.
 
-f) Grado de cumplimiento de las restricciones horarias al expendio refrigerado en comercios minoristas de proximidad.
+f) Grado de cumplimiento de la prohibición de expendio refrigerado en comercios minoristas.
 
 ---
 
@@ -182,13 +180,13 @@ c) Se instalará la señalización prevista en el artículo 9°.
 
 d) Se capacitará a los agentes de prevención contravencional y a los inspectores de faltas.
 
-e) Los comercios minoristas de proximidad adecuarán sus instalaciones y procedimientos operativos para dar cumplimiento a las restricciones horarias incorporadas a la Ley N° 451.
+e) Los comercios minoristas adecuarán sus instalaciones, retirando las bebidas alcohólicas de los equipos de refrigeración en el área de venta.
 
 **Artículo 14.-** Durante los primeros sesenta (60) días de vigencia de la ley:
 
 a) Respecto de las contravenciones incorporadas al Código Contravencional: el Ministerio Público Fiscal priorizará los mecanismos de resolución alternativa del conflicto y las instrucciones especiales por sobre la imposición de sanciones de multa, salvo para las conductas agravadas. El secuestro preventivo de las bebidas se aplicará en todos los casos.
 
-b) Respecto de las faltas incorporadas al Régimen de Faltas: serán sancionadas únicamente con intimación a adecuar las instalaciones y procedimientos operativos en un plazo de cuarenta y ocho (48) horas, sin aplicación de multa.
+b) Respecto de las faltas incorporadas al Régimen de Faltas: serán sancionadas únicamente con intimación a retirar las bebidas alcohólicas de los equipos de refrigeración en un plazo de cuarenta y ocho (48) horas, sin aplicación de multa.
 
 **Artículo 15.-** La presente ley es complementaria de la Ley Nacional N° 24.788 y sus modificatorias. Sin perjuicio de las prohibiciones establecidas por la legislación nacional, las normas incorporadas por la presente ley regulan de manera específica la prohibición del consumo de bebidas alcohólicas en espacios públicos de la Ciudad y las condiciones de expendio en comercios minoristas, cubriendo los supuestos no alcanzados o insuficientemente operativos en la normativa vigente.
 
@@ -202,7 +200,7 @@ b) Respecto de las faltas incorporadas al Régimen de Faltas: serán sancionadas
 
 Señora Presidenta:
 
-El presente proyecto de ley tiene por objeto establecer un régimen integral que prevenga, tipifique y sancione el consumo de bebidas alcohólicas en la vía pública y espacios públicos de la Ciudad Autónoma de Buenos Aires, y que regule mediante restricciones horarias el expendio de bebidas alcohólicas refrigeradas en comercios minoristas de proximidad como herramienta complementaria para desincentivar el consumo callejero.
+El presente proyecto de ley tiene por objeto establecer un régimen integral que prevenga, tipifique y sancione el consumo de bebidas alcohólicas en la vía pública y espacios públicos de la Ciudad Autónoma de Buenos Aires, y que prohíba el expendio de bebidas alcohólicas refrigeradas en comercios minoristas como herramienta complementaria para desincentivar el consumo callejero.
 
 A diferencia de una ley autónoma que cree sus propios tipos y procedimientos, el presente proyecto adopta la técnica legislativa de **modificar los cuerpos normativos vigentes**: el Código Contravencional (Ley N° 1472) para las conductas individuales y el Régimen de Faltas (Ley N° 451) para las conductas comerciales. Esta decisión estructural, que se fundamenta en el apartado VII de los presentes Fundamentos, busca asegurar que cada conducta se tramite por el cauce procesal que le corresponde conforme la arquitectura jurídica de la Ciudad.
 
@@ -220,13 +218,13 @@ La Ley Nacional N° 24.788 ("Ley Nacional de Lucha contra el Alcoholismo", sanci
 
 La Ciudad no cuestiona la vigencia ni el alcance de esta norma nacional. Lo que el presente proyecto viene a cubrir es la **falta de instrumentos locales de fiscalización y sanción efectiva**: la Ley 24.788 no prevé un procedimiento operativo para que las autoridades de la Ciudad intervengan de manera inmediata ante el consumo cotidiano en plazas, veredas o paradas de colectivos. El presente proyecto complementa, precisa y vuelve localmente operativa la protección del espacio público frente al consumo de alcohol.
 
-Por su parte, el Régimen de Faltas de la Ciudad (Ley N° 451, art. 4.1.3) sanciona al titular de un establecimiento que expenda bebidas alcohólicas a personas en estado de embriaguez o que permita o tolere su consumo dentro del local sin habilitación para ello. Sin embargo, esta norma no alcanza al consumo en la vía pública por parte de los individuos, ni a la facilitación del consumo callejero por parte de los comercios mediante modalidades como el expendio refrigerado nocturno o la entrega en recipientes descartables. La práctica fiscalizadora ha recurrido a interpretaciones extensivas de este artículo para sancionar conductas que, en rigor, no están tipificadas, lo que genera inseguridad jurídica tanto para los comerciantes como para la autoridad de aplicación.
+Por su parte, el Régimen de Faltas de la Ciudad (Ley N° 451, art. 4.1.3) sanciona al titular de un establecimiento que expenda bebidas alcohólicas a personas en estado de embriaguez o que permita o tolere su consumo dentro del local sin habilitación para ello. Sin embargo, esta norma no alcanza al consumo en la vía pública por parte de los individuos, ni a la facilitación del consumo callejero por parte de los comercios mediante modalidades como el expendio refrigerado o la entrega en recipientes descartables. La práctica fiscalizadora ha recurrido a interpretaciones extensivas de este artículo para sancionar conductas que, en rigor, no están tipificadas, lo que genera inseguridad jurídica tanto para los comerciantes como para la autoridad de aplicación.
 
 El Código Contravencional de la Ciudad Autónoma de Buenos Aires (Ley N° 1472 y sus modificatorias) tampoco tipifica el consumo de alcohol en la vía pública como contravención autónoma.
 
 **Existe, en consecuencia, una insuficiencia normativa que el presente proyecto viene a cubrir** mediante la incorporación de tipos específicos a los cuerpos normativos correspondientes.
 
-### III. Justificación de la prohibición general
+### III. Justificación de la prohibición general del consumo en espacios públicos
 
 La prohibición del consumo de bebidas alcohólicas en la totalidad de los espacios públicos —y no solo del consumo que genere efectos nocivos concretos— se funda en la imposibilidad práctica de distinguir ex ante entre el consumo individual y responsable y el consumo que derivará en situaciones de riesgo para la convivencia. Las prohibiciones limitadas a la "ebriedad manifiesta" o al "consumo que genere molestias" resultan ineficaces por la dificultad probatoria que imponen a los agentes fiscalizadores y por el efecto de normalización que el consumo generalizado produce en el espacio público: a mayor visibilidad del consumo, mayor tolerancia social y mayor incidencia de conductas problemáticas asociadas.
 
@@ -236,17 +234,21 @@ El modelo de prohibición general con excepciones reguladas permite una fiscaliz
 
 La Ciudad Autónoma de Buenos Aires tiene competencia plena para legislar en materia contravencional, conforme lo dispuesto por el artículo 81, inciso 2°, de la Constitución de la Ciudad Autónoma de Buenos Aires (CCABA). El artículo 81 atribuye a la Legislatura la facultad de dictar los códigos contravencional y de faltas. Asimismo, los artículos 27 y concordantes de la CCABA habilitan la regulación del uso del espacio público, y las facultades de policía del comercio y salubridad propias de la jurisdicción local sustentan la regulación de las condiciones de expendio de bebidas alcohólicas.
 
-### V. La restricción horaria al expendio de bebidas alcohólicas refrigeradas en comercios minoristas
+### V. Prohibición del expendio refrigerado en comercios minoristas
 
-Un pilar complementario del presente proyecto es la restricción horaria al expendio de bebidas alcohólicas refrigeradas en comercios minoristas de proximidad.
+Un pilar complementario del presente proyecto es la prohibición del expendio de bebidas alcohólicas refrigeradas en todos los comercios minoristas de la Ciudad: supermercados, hipermercados, autoservicios, kioscos, almacenes, drugstores, estaciones de servicio y todo otro comercio habilitado para la venta al público que no sea un establecimiento gastronómico con servicio de mesa.
 
-La disponibilidad inmediata de bebidas alcohólicas frías en comercios minoristas durante el horario nocturno facilita y promueve el consumo en la vía pública. La restricción horaria —entre las 20:00 h y las 10:00 h— focaliza la medida en la franja de mayor incidencia del consumo callejero, preservando durante el horario diurno el derecho de los consumidores a adquirir bebidas refrigeradas para consumo domiciliario.
+La lógica es directa: la disponibilidad inmediata de bebidas alcohólicas frías en comercios minoristas facilita y promueve el consumo impulsivo en la vía pública. Quien compra una lata de cerveza fría en un kiosco o un supermercado lo hace, en la gran mayoría de los casos, para consumirla de manera inmediata. El consumidor que planifica comprar bebidas alcohólicas para consumo domiciliario puede adquirirlas a temperatura ambiente y refrigerarlas en su hogar sin restricción alguna.
 
-Este modelo de restricción horaria respeta la libertad de comercio (art. 14 de la Constitución Nacional) al limitar únicamente el modo y horario de expendio —no el producto ni el derecho a comercializarlo—, y supera el test de razonabilidad del artículo 28 de la Constitución Nacional al establecer una relación directa entre el medio (restricción nocturna) y el fin (reducción del consumo callejero en los horarios de mayor incidencia).
+La prohibición no recae sobre el producto ni sobre el derecho a comercializarlo, sino exclusivamente sobre una **condición de expendio** —la temperatura de venta— que está directamente vinculada al consumo callejero inmediato. La Ciudad ya ejerce poder de policía sobre las condiciones de expendio de alcohol a través de la Ley 451 (restricciones por estado de embriaguez del comprador, horarios, habilitación del local); la regulación de la temperatura de venta es una condición de expendio más, de la misma naturaleza jurídica.
 
-La restricción se extiende a los servicios de entrega a domicilio y plataformas de comercio electrónico cuando el expendedor sea un comercio alcanzado por la norma, evitando la elusión de la regulación a través de canales digitales y garantizando igualdad de condiciones para todos los operadores comerciales.
+La regla es simple y fácil de fiscalizar: **si el comercio no tiene habilitación para servicio de mesa, no puede tener alcohol en la heladera**. Esta simplicidad es una virtud: elimina ambigüedades, facilita la inspección (basta verificar si hay bebidas alcohólicas en equipos de refrigeración) y reduce la litigiosidad.
 
-La excepción para establecimientos gastronómicos es clara: su modelo de expendio está orientado al consumo en el establecimiento. Para vinotecas y comercios especializados, la excepción opera bajo una doble condición: (i) solo para envases cerrados de 750 ml o más, y (ii) siempre que el comercio no expenda simultáneamente envases individuales refrigerados (latas, porrones, envases menores a 750 ml). La primera condición distingue la compra planificada (botella de vino, destilado) de la compra de impulso para consumo inmediato. La segunda impide que un comercio se ampare en la excepción mientras opera en la práctica como punto de venta de consumo callejero. Esta doble restricción acota materialmente la excepción a su fundamento: el expendio especializado y planificado. La reglamentación podrá ajustar las condiciones según la experiencia de implementación.
+La excepción para establecimientos gastronómicos (bares, restaurantes, cervecerías, pubs) es funcional: estos locales expenden bebidas para consumo en el establecimiento, no para retiro. Los hoteles, alojamientos turísticos y clubes privados quedan exceptuados respecto de sus huéspedes, socios y visitantes.
+
+La prohibición se extiende a los servicios de entrega a domicilio y plataformas de comercio electrónico cuando el expendedor sea un comercio alcanzado por la norma, evitando la elusión a través de canales digitales.
+
+Se aplica una regla uniforme a todos los comercios minoristas sin distinguir por tamaño, formato o especialización. Esta universalidad fortalece la defensa constitucional del proyecto: no hay trato desigual entre comercios, no hay excepciones discrecionales, y la distinción se basa en un criterio funcional claro (servicio de mesa / venta al público).
 
 ### VI. Enfoque protectivo respecto de menores
 
@@ -258,13 +260,13 @@ El presente proyecto adopta deliberadamente la técnica de **modificar los cuerp
 
 **Para las conductas individuales** (consumo y porte de recipiente abierto en espacio público), la naturaleza de la infracción es contravencional. Incorporar estas figuras directamente al Código Contravencional (Ley N° 1472) asegura que se tramiten conforme el procedimiento de la Ley N° 12 de Procedimiento Contravencional, con intervención del Ministerio Público Fiscal y del juez/a competente, garantizando el debido proceso, el juez natural y la doble instancia. Los mecanismos de resolución alternativa y las instrucciones especiales ya previstos en el procedimiento contravencional vigente ofrecen herramientas adecuadas para graduar la respuesta según la gravedad de cada caso.
 
-**Para las conductas comerciales** (expendio refrigerado en horario restringido y facilitación del consumo callejero), la naturaleza de la infracción es administrativa. Incorporar estas figuras al Régimen de Faltas (Ley N° 451) asegura que se tramiten conforme el procedimiento de la Ley N° 1217, ante Controladores/as Administrativos/as de Faltas, con apelación ante la Cámara de Apelaciones en lo Penal, Contravencional y de Faltas. Este es el cauce natural para infracciones vinculadas a la actividad comercial y las condiciones de habilitación, y es el mismo sistema que ya aplica el artículo 4.1.3 vigente para el expendio de alcohol.
+**Para las conductas comerciales** (expendio refrigerado y facilitación del consumo callejero), la naturaleza de la infracción es administrativa. Incorporar estas figuras al Régimen de Faltas (Ley N° 451) asegura que se tramiten conforme el procedimiento de la Ley N° 1217, ante Controladores/as Administrativos/as de Faltas, con apelación ante la Cámara de Apelaciones en lo Penal, Contravencional y de Faltas. Este es el cauce natural para infracciones vinculadas a la actividad comercial y las condiciones de habilitación, y es el mismo sistema que ya aplica el artículo 4.1.3 vigente para el expendio de alcohol.
 
 Esta separación evita los problemas que generaría una ley autónoma que mezcle naturalezas jurídicas distintas o que cree procedimientos ad hoc que no encajen en la arquitectura procesal vigente de la Ciudad.
 
 ### VIII. Transparencia y control
 
-Se establece la obligación de presentar informes semestrales a la Legislatura, con datos desagregados por Comuna, evaluación de impacto y grado de cumplimiento de las restricciones horarias al expendio refrigerado. Las Juntas Comunales participan en la designación de las Zonas de Consumo Habilitado conforme la reglamentación.
+Se establece la obligación de presentar informes semestrales a la Legislatura, con datos desagregados por Comuna, evaluación de impacto y grado de cumplimiento de la prohibición de expendio refrigerado. Las Juntas Comunales participan en la designación de las Zonas de Consumo Habilitado conforme la reglamentación.
 
 Por las razones expuestas, solicito a mis pares la aprobación del presente proyecto de ley.
 
